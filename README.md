@@ -4,4 +4,4 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 
 ## Viewing the Website
 
-You can view the live website [here](https://github.com/Ovaiota/Design-Portfolio/tree/main).
+You can view the live website [here](file:///C:/Users/User/Documents/repositories/Portfolio/Portfolio.html).
